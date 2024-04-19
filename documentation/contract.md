@@ -224,7 +224,4 @@ contract Org{
 
 ```
 
-## Authors
-
-- [@A-Little-Hat](https://github.com/A-Little-Hat)
 
